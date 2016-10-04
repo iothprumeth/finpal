@@ -1,0 +1,174 @@
+.menu {
+margin-left : 1px;
+width : 15%;
+height : 100vh;
+background-color : #3F4650;
+}
+
+.titre {
+height : 50px;
+color : white;
+padding-top : 10%;
+padding-left : 20%;
+background-color : #343E47;
+}
+
+.titre b {
+font-size: 18px;
+color : #e5e5e5;
+}
+
+.caseMenu {
+height : 103px;
+width : 80%;
+padding-top : 15%;
+padding-left : 20%;
+border-bottom : groove 1px;
+border-color : #aaaaaa;
+}
+
+.option{
+width : 100%;
+padding-top : 12%;
+padding-left : 20%;
+}
+
+.option a {
+margin-top : 20px;
+text-align : center;
+}
+
+p{
+font-size : 11px;
+color : #737A84;
+font-family : comic;
+font-weight : bold;
+line-height: 15px;
+margin-bottom: 0px;
+}
+
+.myButton {
+	background-color:transparent;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	border:2px solid #5e97bd;
+	display:inline;
+	color:#5e97bd;
+	font-family:Arial;
+	font-size:11px;
+	font-weight:bold;
+	padding:6px 10px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:transparent;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.jaune {
+width : 60%;
+height : 65px;
+background-color : #F1AD3A;
+margin-left : 15.1%;
+margin-top : -100vh;
+}
+
+.block {
+height : 500px;
+width : 20%;
+margin-left : 75.1%;
+margin-top : -65px;
+}
+
+.bCasse {
+width : 100%;
+height : 65px;
+background-color : #F6F6F6;
+}
+
+.margDetails {
+margin-top : 45vh;
+width : 100%;
+}
+
+.margDetails p {
+color : #bbbbbb;
+}
+
+.paiement {
+width : 430px;
+height : 50px;
+margin-left : 27%;
+margin-top : -400px;
+font-size : 11px;
+font-family : myriad pro;
+}
+
+.paiementUL {
+border-bottom : 1px solid #dddddd;
+line-height : 43px;
+}
+
+.paiementUL li{
+display:inline-block;
+text-align : center;
+vertical-align: middle;
+}
+
+.noPad {
+padding-left : 0px;
+padding-right : 0px;
+}
+
+.margR {
+margin-right : 20px;
+}
+
+.margRName {
+margin-right : 25px;
+}
+
+.margRDate{
+margin-right : 15px;
+}
+
+.margRPay {
+margin-right : 5px;
+}
+
+.margRtitle {
+margin-right : 30px;
+}
+
+.bold {
+font-weight : bold;
+font-size : 10.5px;
+}
+
+.titleBorder {
+border-bottom : 1px solid #777777;
+line-height : 43px;
+}
+
+.titleBorder li {
+display:inline-block;
+text-align : center;
+}
+
+.price {
+color : black;
+}
+
+.baisse {
+font-size : 9px;
+}
+
+.details {
+text-align : center;
+color : aaaaaa;
+font-size : 12px;
+}
